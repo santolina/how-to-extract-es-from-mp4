@@ -15,4 +15,5 @@ Describe how we can extract elemental streams from MP4 as follows:
 - extn is like aac etc...
 
 ## Referneces
-- https://e2e.ti.com/support/embedded/linux/f/354/t/156646
+1. [using ffmpeg to extract the elementary stream and play in mplayer](https://e2e.ti.com/support/embedded/linux/f/354/t/156646)
+2. [How to build ffmpeg on OSX](http://qiita.com/tjun/items/990ddd9062117b3ecb6b9)
